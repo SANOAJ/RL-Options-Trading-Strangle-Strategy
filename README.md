@@ -2,6 +2,7 @@
 This repository contains a Reinforcement Learning (RL) model designed to apply the Strangle options trading strategy using Deep Q-Networks (DQN). The model is developed to handle categorical data and technical indicators, making it suitable for real-time trading scenarios.
 
 #Project Overview
+
 The StrangleTradingEnv simulates an options trading environment where a reinforcement learning agent can learn to make profitable trades based on historical options data. The environment rewards the agent for successful trades and penalizes it for losses, aiming to optimize the trading strategy over time.
 
 #Features
